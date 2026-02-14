@@ -6,7 +6,6 @@ causal_check_by_day_x_comparison.png
 validation_results_detailed.csv
 .claude
 test.py
-README.md
 model_e.txt
 feature_importance.png
 test_predictions.csv
