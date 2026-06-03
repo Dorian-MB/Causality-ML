@@ -12,8 +12,8 @@ This project implements demand forecasting models for train ticket pricing optim
 pip install pandas numpy scikit-learn lightgbm matplotlib seaborn jupyter
 
 # Run notebooks in order
-jupyter notebook model-training-corrected.ipynb  # Train models
-jupyter notebook model-evaluation.ipynb          # Evaluate and compare
+jupyter notebook model-training.ipynb      # Train models
+jupyter notebook model-evaluation.ipynb    # Evaluate and compare
 ```
 
 ## Key Results
