@@ -15,6 +15,8 @@ wiremind-EDA-test.ipynb
 revenue_curves_comparison_examples.png
 .git
 phase_3.md
-cayzn_train.parquet
 lgb_demand_model_temporal_split.txt
+cayzn_train.parquet
 cayzn_test.parquet
+.DS_Store
+optimal_price_comparison.png
